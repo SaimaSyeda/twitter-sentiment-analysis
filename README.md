@@ -16,7 +16,7 @@ This project performs **sentiment analysis on tweets**, classifying them as **po
 ## 🛠️ Tools & Technologies
 - **Python**  
 - **Google Colab**
-- - **NLP Libraries**: `NLTK` for text preprocessing  
+- **NLP Libraries**: `NLTK` for text preprocessing  
 - **Dataset Source**: Kaggle Twitter Sentiment Dataset
 
 
